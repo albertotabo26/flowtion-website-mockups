@@ -1,0 +1,9 @@
+# Solo se publican las opciones de diseño
+/*
+!/.gitignore
+!/index.html
+!/opciones.html
+!/opcion-1-flujo/
+!/opcion-2-movimiento/
+!/opcion-3-noche/
+!/.nojekyll
